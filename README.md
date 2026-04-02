@@ -11,7 +11,7 @@ Play any foreign-language game. Read everything. No interruptions.
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat-square&logo=windows)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-GitHub-333?style=flat-square&logo=github)](https://github.com/toyakyo)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5f5f?style=flat-square&logo=ko-fi)](https://ko-fi.com/toyakyo)
-[![Patreon](https://img.shields.io/badge/Support-Patreon-%24100%2Fmo-orange?style=flat-square&logo=patreon)](https://www.patreon.com/cw/LangForge)
+[![Patreon](https://img.shields.io/badge/Support-Patreon-orange?style=flat-square&logo=patreon)](https://www.patreon.com/cw/LangForge)
 
 [📥 Download](https://goonsoft.tw2.nde.tw/tutorial/tutorial.php#download) •
 [📖 Documentation](https://goonsoft.tw2.nde.tw/tutorial/tutorial.php) •
@@ -135,7 +135,7 @@ The application makes **only the API calls required for translation** — to the
 
 | Release | File | SHA256 |
 |---------|------|--------|
-| V1.0.1-beta.5 | `LangForge.exe` | `F73949570301C1D073DC75208852B3D6D9EA8ABD81859EFD56FA70D9089A1E6D` |
+| V1.0.1-beta.6 | `LangForge.exe` | `33F164391F1AC2FCF6742E71F25C6D18C2CB52276DC8503B01F23867B9E607E4` |
 
 ```powershell
 # Verify in PowerShell
