@@ -12,6 +12,9 @@ Independent developer · Studio: **Go-OnSoft**
 - 🔆 [BrightTube](https://github.com/toyakyo/BrightTube) — Chrome extension to adjust YouTube video brightness
   調整 YouTube 影片亮度的 Chrome 擴充功能
 
+- 🔍 [QuickTruth](https://github.com/toyakyo/QuickTruth) — Chrome extension showing Cofacts and Taiwan FactCheck Center results next to Facebook posts, plus on-device AI analysis
+  在 Facebook 貼文旁顯示查核結果並提供本機 AI 分析的 Chrome 擴充功能
+
 ## Contact 聯絡
 
 - GitHub: [@toyakyo](https://github.com/toyakyo)
